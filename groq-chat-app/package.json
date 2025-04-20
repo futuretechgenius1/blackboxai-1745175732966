@@ -1,0 +1,17 @@
+{
+  "name": "groq-chat-app",
+  "version": "1.0.0",
+  "description": "Groq AI Chat Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "vite"
+  },
+  "dependencies": {
+    "groq-sdk": "^0.3.2",
+    "uuid": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/uuid": "^9.0.8",
+    "vite": "^4.0.0"
+  }
+}
